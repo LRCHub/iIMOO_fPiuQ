@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "幸せになろう",
+  "base_artist": "mihimaru GT",
+  "createdAt": "2026-03-11T04:14:17.094924Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "幸せになろう",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/01_幸せになろう_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "幸せになろう",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/02_幸せになろう_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shiawase Ni Narou (幸せになろう)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/03_Shiawase_Ni_Narou_(幸せになろう)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "幸せになろう",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/04_幸せになろう_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "幸せになろう",
+      "artist": "Chikako Sawada",
+      "has_synced": false,
+      "path": "select/05_幸せになろう_Chikako_Sawada.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "幸せになろう",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/06_幸せになろう_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "そんなことより 幸せになろう",
+      "artist": "小田和正",
+      "has_synced": false,
+      "path": "select/07_そんなことより_幸せになろう_小田和正.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "幸せになろう",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/08_幸せになろう_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shiawase ni Narō (幸せになろう?, Let's Be Happy)",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/09_Shiawase_ni_Narō_(幸せになろう_,_Let's_Be_Happy)_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "幸せになろう",
+      "artist": "宇多田光",
+      "has_synced": true,
+      "path": "select/10_幸せになろう_宇多田光.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "幸せになろう",
+      "artist": "沢田知可子",
+      "has_synced": true,
+      "path": "select/11_幸せになろう_沢田知可子.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "そんなことより 幸せになろう",
+      "artist": "小田和正",
+      "has_synced": true,
+      "path": "select/12_そんなことより_幸せになろう_小田和正.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "幸せになろう (Remastered 2018)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/13_幸せになろう_(Remastered_2018)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "幸せになろう",
+      "artist": "mihimaru GT",
+      "has_synced": true,
+      "path": "select/14_幸せになろう_mihimaru_GT.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "幸せになろう",
+      "artist": "岡崎律子",
+      "has_synced": true,
+      "path": "select/15_幸せになろう_岡崎律子.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "03. 幸せになろう",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/16_03._幸せになろう_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幸せになろう",
+      "artist": "mihimaru GT",
+      "has_synced": false,
+      "path": "select/pl_01_幸せになろう_mihimaru_GT.txt"
+    }
+  ]
+}
